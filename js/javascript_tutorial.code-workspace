@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/javascript_tutorial"
+		},
+		{
+			"path": "../../flixx-app-theme"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "tracalorie_theme"
+	}
+}
